@@ -1,0 +1,19 @@
+nav{
+  padding: 15px;
+  background-color: #036635;
+  margin-bottom: 50px;
+  position: relative;
+}
+nav>a>img{
+  width: 50px;
+  padding-left: 30px;
+}
+nav>ul>li{
+  position: absolute;
+  top: 25px; right: 30px;
+}
+nav>ul a{
+  font-size: 25px;
+  color: #fff;
+  text-decoration: none;
+}

@@ -1,0 +1,69 @@
+.box{
+  width: 500px;
+  margin: 0 auto;
+}
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+.boxCart{
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.boxCart>figure{
+  padding: 2cap;
+  width: 100%;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 30px;
+  display: flex;
+}
+.boxCart figcaption{
+  text-align: left;
+  padding-left: 20px;
+}
+.boxCart>figure img{
+  width: 150px;
+  margin-bottom: 10px;
+}
+.boxCart>figure dt{
+  margin-bottom: 10px;
+  color: #036635;
+  font-size: 18px;
+}
+.boxCart>figure dd{
+  margin-bottom: 10px;
+}
+.boxCart>figure dd>button{
+  padding: 5px 20px;
+  border: none;
+  background-color: #036635;
+  color: #fff;
+  margin-top: 50px;
+}
+footer{
+  text-align: center;
+}
+footer>dl{
+}
+footer dt{
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+footer dd{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+footer button{
+  padding: 5px 50px;
+  border: none;
+  background: #333;
+  color: #fff;
+  margin-bottom: 25px;
+}

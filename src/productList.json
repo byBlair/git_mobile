@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "카페 아메리카노",
+      "eng" : "Americano",
+      "detail": "진한 에스프레소와 뜨거운 물을 섞어 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽게 잘 느낄 수 있는 커피",
+      "price": 4500,
+      "imageUrl": "./images/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "자몽 허니 블렌디드",
+      "eng" : "Iced Grapefruit Honey Black Tea",
+      "detail": "시원한 여름을 달콤하게 만들어줄 자몽 허니에 레몬의 산뜻함을 더해 가볍게 칠링하기 좋은 과일 블렌디드",
+      "price": 6300,
+      "imageUrl": "./images/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "아이스 라벤더 카페 브레베",
+      "eng" : "Iced Lavender Cafe Breve",
+      "detail": "진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베",
+      "price": 7000,
+      "imageUrl": "./images/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "자바 칩 프라푸치노",
+      "eng" : "Java Chip Frappuccino",
+      "detail": "커피, 모카 소스, 진한 초콜릿 칩이 입안 가득 느껴지는 스타벅스에서만 맛볼 수 있는 프라푸치노",
+      "price": 6300,
+      "imageUrl": "./images/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "망고 용과 레모네이드 스타벅스 리프레셔",
+      "eng" : "Mango Dragonfruit with Lemonade Starbucks Refreshers™",
+      "detail": "망고 용과와 레모네이드가 달콤 상큼하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 음료",
+      "price": 5900,
+      "imageUrl": "./images/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "잉글리쉬 브렉퍼스트 티",
+      "eng" : "English Breakfast Brewed Tea",
+      "detail": "인도 아삼, 제주도 유기농 홍차가 블렌딩되어 진한 벌꿀향과 그윽한 몰트향이 특징인 블랙 티",
+      "price": 4500,
+      "imageUrl": "./images/6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "카푸치노",
+      "eng" : "Cappuccino",
+      "detail": "풍부하고 진한 에스프레소에 따뜻한 우유와 벨벳 같은 우유 거품이 1:1 비율로 어우러져 마무리된 커피 음료",
+      "price": 5000,
+      "imageUrl": "./images/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "스타벅스 돌체 라떼",
+      "eng" : "Starbucks Dolce Latte",
+      "detail": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼",
+      "price": 5900,
+      "imageUrl": "./images/8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "카페라떼",
+      "eng" : "Caffe Latte",
+      "detail": "풍부하고 진한 에스프레소가 신선한 스팀 밀크를 만나 부드러워진 커피 위에 우유 거품을 살짝 얹은 대표적인 커피 라떼",
+      "price": 5000,
+      "imageUrl": "./images/9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "화이트 초콜릿 모카",
+      "eng" : "White Chocolate Mocha",
+      "detail": "달콤하고 부드러운 화이트 초콜릿 시럽과 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 달콤함과 강렬한 에스프레소가 부드럽게 어우러진 커피",
+      "price": 5900,
+      "imageUrl": "./images/10.jpg"
+    }
+  ]
+}
